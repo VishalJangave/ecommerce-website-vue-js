@@ -1,0 +1,82 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "userlist": [
+    {
+      "id": "6",
+      "name": "suraj",
+      "emailid": "s@gmail.com",
+      "mobileNumber": "8888455556",
+      "password": "s@0002"
+    },
+    {
+      "id": "1",
+      "name": "Vishal Jangave",
+      "emailid": "vishaljangave222@gmail.com",
+      "mobileNumber": "9595464340",
+      "password": "v@0002"
+    },
+    {
+      "id": "2",
+      "name": "Rushi Mane",
+      "emailid": "r@gmail.com",
+      "mobileNumber": "9604662022",
+      "password": "r@0002"
+    }
+  ],
+  "mobilelist": [
+    {
+      "id": "3",
+      "mobileName": "nokia",
+      "model": "f15",
+      "prize": "15000"
+    },
+    {
+      "id": "5",
+      "mobileName": "iphone ",
+      "model": "6s",
+      "prize": "22000"
+    },
+    {
+      "id": "6",
+      "mobileName": "redmi",
+      "model": "prime7",
+      "prize": "18000"
+    },
+    {
+      "id": "8",
+      "mobileName": "google",
+      "model": "pixel2",
+      "prize": "17000"
+    },
+    {
+      "id": "9",
+      "mobileName": "iphone ",
+      "model": "6",
+      "prize": "19000"
+    }
+  ],
+  "laptoplist": [
+    {
+      "id": "3",
+      "laptopCompany": "hp",
+      "laptopModel": "pavalion",
+      "prize": "56000"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
